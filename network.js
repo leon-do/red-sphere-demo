@@ -11,5 +11,5 @@ Used to set the network
 137 Matic
 */
 
-window.web3NetworkId = 1;
-window.web3NetworkName = "mainnet"
+window.web3NetworkId = 4;
+window.web3NetworkName = "rinkeby"
